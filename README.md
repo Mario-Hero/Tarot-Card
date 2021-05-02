@@ -4,9 +4,6 @@
 
 塔罗牌抽牌Python脚本
 
-2021.05.02: 新增在压缩包的注释里找密码的功能。Added the ability to find the password in the comments of the archive.
-
-
 
 
 ## 用法 Usage
