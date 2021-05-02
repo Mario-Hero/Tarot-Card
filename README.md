@@ -6,6 +6,7 @@
 
 
 
+
 ## 用法 Usage
 
 随意在键盘上输入，按下回车，程序会根据输入的值给出抽牌结果并显示图片。
@@ -33,4 +34,8 @@ SHOW_IMAGE = True 是否显示图片
 The Aquatic Tarot. *Author/Artist:* **©Andreas Schröter** 1995-2002
 
 Author Permissions: This deck is for non-commercial use only. 禁止用于商用
+
+![](https://raw.githubusercontent.com/Mario-Hero/Tarot-Card/main/tarot/maj_00.jpg)
+
+
 
