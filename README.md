@@ -23,6 +23,7 @@ Please download the "tarot" folder also and put it together with "tarot.py".
 Python 3
 
 安装 matplotlib,scipy,numpy
+<br>
 Install matplotlib,scipy,numpy
 
 
