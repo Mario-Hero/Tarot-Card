@@ -67,7 +67,7 @@ if __name__ == '__main__':
     while True:
         inStr = input()
         if inStr == "q" or inStr == "quit":
-            sys.exit(0)
+            break
         sun = 0
         for wd in inStr:
             sun = (sun + ord(wd)*random.randint(0,155))%156 
