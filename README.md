@@ -6,6 +6,10 @@
 
 Tarot-Card Python script.
 
+结果仅供参考。希望你在抽牌之前，已经有了自己的选择。
+
+The results are for reference only. Hope you already have your own choice before drawing cards.
+
 
 
 ## 用法 Usage
@@ -18,12 +22,11 @@ Randomly input something...and get the card.
 
 Please download the "tarot" folder also and put it together with "tarot.py".
 
-## 需求 Needs
+## 依赖 Dependency 
 
 Python 3
 
 安装 matplotlib,scipy,numpy
-<br>
 Install matplotlib,scipy,numpy
 
 
